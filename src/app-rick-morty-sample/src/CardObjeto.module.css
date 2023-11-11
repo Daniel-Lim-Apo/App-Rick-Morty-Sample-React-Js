@@ -1,0 +1,13 @@
+.card {
+    width: 200px;
+    border: 1px solid #ccc;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 16px;
+    margin: 16px;
+}
+
+.card>h1 {
+    margin-top: 0;
+    color: #62a762;
+    text-decoration: underline;
+}
